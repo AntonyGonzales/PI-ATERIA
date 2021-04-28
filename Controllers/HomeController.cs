@@ -1,13 +1,13 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using pokedex.Models;
+using PI_ATERIA.Models;
 
-namespace pokedex.Controllers
+namespace PI_ATERIA.Controllers
 {
     public class HomeController : Controller
     {
