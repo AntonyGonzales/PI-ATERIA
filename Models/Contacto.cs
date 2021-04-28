@@ -8,7 +8,7 @@ namespace PracticaN2.Models
        
         public int id{get;set;}
 
-       
+       //
        [Required]
         public string Nombre{get;set;}
 
